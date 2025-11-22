@@ -205,3 +205,6 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+00-Pytorch-Foundations/07-Train-Model-on-GPU/fashion-mnist_test.csv
+00-Pytorch-Foundations/07-Train-Model-on-GPU/fashion-mnist_train.csv
