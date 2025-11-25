@@ -208,3 +208,5 @@ __marimo__/
 
 00-Pytorch-Foundations/07-Train-Model-on-GPU/fashion-mnist_test.csv
 00-Pytorch-Foundations/07-Train-Model-on-GPU/fashion-mnist_train.csv
+00-Pytorch-Foundations/08-Optimizer-Pytorch/fashion-mnist_train.csv
+STT/
