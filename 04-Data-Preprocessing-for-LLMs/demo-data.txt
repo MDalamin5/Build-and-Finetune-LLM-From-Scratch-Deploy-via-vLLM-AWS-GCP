@@ -1,1 +1,5 @@
-this is a new lone
+How to process the text.
+paragraph to word
+word to vocab
+vocab to ids
+ids to embeddings
